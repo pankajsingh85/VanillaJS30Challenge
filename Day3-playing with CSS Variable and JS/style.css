@@ -13,14 +13,13 @@ img {
 .hl {
     color: var(--base);
   }
-
-  /*
-    misc styles, nothing to do with CSS variables
-  */
+.h2 {
+  color: var(--base);
+}
 
 body {
     text-align: center;
-    background: #193549;
+    background: #192549;
     color: white;
     font-family: 'helvetica neue', sans-serif;
     font-weight: 100;
